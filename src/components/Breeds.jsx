@@ -1,7 +1,7 @@
 import React from 'react'
 import DogCard from './DogCard'
 
-const Breads = () =>
+const Breeds = () =>
 {
     return (
       <div className='flex flex-col h-screen bg-[#ffc400] text-center text-white gap-10 '>
@@ -19,4 +19,4 @@ const Breads = () =>
   }
   
 
-export default Breads
+export default Breeds

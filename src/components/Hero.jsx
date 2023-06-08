@@ -16,7 +16,7 @@ const Hero = () => {
           </h4>
         </div>
         <div className="flex gap-10 justify-start items-center">
-          <Button text="Contact Us" bor={`border-2`} borRad={`rounded-md`} />
+          <Button text="Contact Us" bor={`border-2`} borRad={`rounded-md`}  />
           <Button
             bor={`border`}
             text="Our Service"

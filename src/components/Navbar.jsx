@@ -15,7 +15,7 @@ const Navbar = () => {
         </ul>
       </div>
       <div className='flex'>
-        <input className='px-6 py-2 placeholder-white bg-[#fcc302]' type="text" name='name' placeholder='Search' />
+        <input className='px-5 py-2 placeholder-white bg-[#fcc302]' type="text" name='name' placeholder='Search' />
         <div className='px-4 py-2 bg-[#00bec9]'>
         <BiSearch className='text-white' />
         </div>
